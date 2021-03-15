@@ -52,12 +52,12 @@ There are a lot of useful posts out there, this one is a composition of those ar
 ```
 
 ## Hardware
-* [Ubiquity UniFi Security Gateway](https://www.ubnt.com/unifi-routing/usg/) - Enterprise Gateway Router with gigabit ethernet - model: USG or USG-PRO-4
-* [Ubiquity UniFi Controller](https://www.ubnt.com/software/) - Centralized management software for the Ubiquity UniFi family on a Raspberry Pi 3B+
-* [Ubiquity AP Lite accesspoint](https://www.ubnt.com/unifi/unifi-ap-ac-lite/) - 802.11ac Dual Radio Access Point - model: UAP‑AC‑LITE
-* [Ubiquity AP Lite accesspoint](https://www.ubnt.com/unifi/unifi-ap-ac-lite/) - 802.11ac Dual Radio Access Point - model: UAP‑AC‑LITE
-* [Netgear 5 ports switch](https://www.netgear.com/support/product/GS105Ev2.aspx) - GS105Ev2 – ProSAFE Plus 5-port Switch
-* [Netgear 5 ports switch](https://www.netgear.com/support/product/GS105Ev2.aspx) - GS105Ev2 – ProSAFE Plus 5-port Switch
+* usg.core.brakkedoos.nl - Ubiquiti Unifi Security Gateway
+* sw01.core.brakkedoos.nl - Ubiquiti Unifi switch 8 ports (4x PoE) 60 Watt
+* swmf01.core.brakkedoos.nl - Ubiquiti Unifi Flex Mini 5ports switch
+* swmf02.core.brakkedoos.nl - Ubiquiti Unifi Flex Mini 5ports switch
+* ap01.core.brakkedoos.nl - Ubiquiti Unifi AC Lite Access point
+* ap02.core.brakkedoos.nl - Ubiquiti Unifi AC Lite Access point
 
 ## Further notes:
 * I use sip.xs4all.nl as a voip server with a sip client or voip phone. Links below will guide you to bridge this setup to your Frizzbox to have voip as you would with a Frizz.
